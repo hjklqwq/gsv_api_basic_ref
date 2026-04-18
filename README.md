@@ -1,5 +1,5 @@
 # GPT-SoVITS API Basic Reference  
-面向新手的GPT-SoVITS API参考
+面向新手的GPT-SoVITS API参考，仍在更新中，尚未全部完成
 ## 写在前面  
 > 本参考文档面向纯新手，内容有限，各位大佬请移步其它教程。  
 
